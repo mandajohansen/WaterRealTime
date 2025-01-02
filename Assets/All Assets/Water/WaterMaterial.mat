@@ -59,7 +59,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Depth: 0.95
-    - _Displacement: 0.05
+    - _Displacement: 0.09
     - _FoamAmount: 0.02
     - _FoamCutOff: 0.6
     - _FoamScale: 30
