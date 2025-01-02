@@ -53,9 +53,6 @@
         },
         {
             "m_Id": "75783641b1ab4f5783895a2fbfd20a5b"
-        },
-        {
-            "m_Id": "711669a8be104169a5effacc4d1f3a02"
         }
     ],
     "m_Keywords": [],
@@ -7254,36 +7251,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
-    "m_ObjectId": "711669a8be104169a5effacc4d1f3a02",
-    "m_Guid": {
-        "m_GuidSerialized": "70942c69-104f-4e47-b2a3-b4cedb083a00"
-    },
-    "m_Name": "FoamTexture",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "FoamTexture",
-    "m_DefaultReferenceName": "_FoamTexture",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_DismissedVersion": 0,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "m_SerializedTexture": "",
-        "m_Guid": ""
-    },
-    "isMainTexture": false,
-    "useTilingAndOffset": false,
-    "m_Modifiable": true,
-    "m_DefaultType": 0
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.BlockNode",
     "m_ObjectId": "7195a3a12f6d4e6dbe069c296cf64ac3",
     "m_Group": {
@@ -10171,9 +10138,6 @@
         },
         {
             "m_Id": "8364b16e23f3421e84e4b2236d0331c4"
-        },
-        {
-            "m_Id": "711669a8be104169a5effacc4d1f3a02"
         },
         {
             "m_Id": "e03a47bf415a4e38bfe16d2f7d92eeb7"
